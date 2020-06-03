@@ -1,0 +1,8 @@
+.nav-wrapper {
+    background-color: #000000;
+}
+
+.dropdown-content {
+    height: 175px !important;
+    width: 150px !important;
+}
